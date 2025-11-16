@@ -1,0 +1,1 @@
+# Six-Emotion-Detection-Project-NLP-and-LSTM
